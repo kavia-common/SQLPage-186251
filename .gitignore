@@ -11,3 +11,4 @@ xbed.sql
 **/sqlpage.bin
 node_modules/
 sqlpage/sqlpage.db
+.file_activity_report.json
